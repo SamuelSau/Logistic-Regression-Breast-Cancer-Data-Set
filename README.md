@@ -4,3 +4,6 @@ Simple, straightforward Logistic Regression Model that determines whether the ca
 
 Using Google Colab so you don't have to install libraries:
 https://drive.google.com/drive/folders/1AAE9LQZ2btFC2W5qOviBuCvALdaIzcFp
+
+Link to Original Data Set: 
+https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29
