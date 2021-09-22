@@ -1,5 +1,3 @@
-# Logistic Regression Breast Cancer Data Set
-
 ## Logistic Regression Model from Breast Cancer Wisconsin (Original) Data Set
 
 Simple, straightforward Logistic Regression Model that determines whether the cancer is malignant (4) or benign (2) based on the original data set from Wisconsin. 
